@@ -1,5 +1,4 @@
-//https://open.kattis.com/problems/ladice
-
+//http://docplayer.net/171511525-Problems-translated-from-croatian-by-paula-gombar.html -> question 10
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
