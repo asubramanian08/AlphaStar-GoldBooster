@@ -1,3 +1,5 @@
+//https://open.kattis.com/problems/ladice
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
