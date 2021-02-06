@@ -32,7 +32,7 @@ unsigned long long getNum()
 int main(void)
 {
     unsigned int numOfTables = getNum(), maxDays = 0;
-    getchar(); //swallow soemthing after??
+    getchar(); //swallow something after??
     unsigned int *candyAtTbl = (unsigned int *)malloc(sizeof(unsigned int) * numOfTables);
     for (unsigned int i = 0; i < numOfTables; i++)
     {
