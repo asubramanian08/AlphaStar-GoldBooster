@@ -1,3 +1,6 @@
+jamboard link: https://jamboard.google.com/d/1Ap3v7CXH-4ZzvOG0-tW1dceqy5-AVDdidU-XzzV2ZqQ/edit?usp=sharing
+
+
 The Bessie Shuffle
 
 For this question, let us first create a permutation representing the Bessie shuffle while keeping the 
