@@ -4,6 +4,8 @@ get to the half-way mark as part of the cost of each half, so that the two probl
 approach is (12 choose 6)*6! = 665,000 operations, well within the time limit.
 
 C++ divide and conquer: */
+#include <iostream>
+using namespace std;
 
 int N;
 int E[12][3];
