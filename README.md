@@ -1,4 +1,4 @@
-## AlphaStar
+## AlphaStar-GoldBooster
 
 ### Organization
 Every day is divided into the questions, lessons, solutions, and my answers. About 7 problems are discussed each day with a google jamboard as notes.
