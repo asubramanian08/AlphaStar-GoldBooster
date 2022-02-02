@@ -1,7 +1,7 @@
 ## AlphaStar-GoldBooster
 
 ### Organization
-Every day is divided into the questions, lessons, solutions, and my answers. About 7 problems are discussed each day with a google jamboard as notes.
+Every day is divided into the questions, lessons _private_, solutions _private_, and my answers. About 7 problems are discussed each day with a google jamboard as notes _private_.
 
 ### About
 
